@@ -2,3 +2,5 @@
 - [ ] teach github course
 - [ ] have lunch
 - [ ] pick my daughter up from school
++ Make Dinner
++ Go climbing
