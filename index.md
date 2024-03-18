@@ -8,6 +8,6 @@ Material covered
 2. Anatomy of a Git Repository
 3. Staging, committing, pushing and pulling from Github
 
-![] (https://www.lifewithcats.tv/wp-content/uploads/2023/09/a-kitten-looking-up.jpg)
+![](https://www.lifewithcats.tv/wp-content/uploads/2023/09/a-kitten-looking-up.jpg)
 
 **A cute cat that my daughter would like**
